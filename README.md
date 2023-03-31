@@ -1,6 +1,6 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Dipakai ya gengs <a href="https://marketplace.visualstudio.com/items?itemName=ziterz.codesandbox-black-theme">CodeSandbox Black Theme</></h2>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> My VSCode Theme <a href="https://marketplace.visualstudio.com/items?itemName=ziterz.codesandbox-black-theme">CodeSandbox Black</></h2>
 
-<h3>I've used</h3>
+<h3>I think i can code with</h3>
 
 <p>
   <img alt="ExpressJs" src="https://img.shields.io/badge/Express-%23404d59.svg?style=flat-square&logo=express&logoColor=black&color=eee" />
@@ -28,6 +28,7 @@
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
   <img alt="Rollup" src="https://img.shields.io/badge/-Rollup-EC4A3F?style=flat-square&logo=rollup.js&logoColor=white" />
+  <img alt="Swift" src="https://img.shields.io/badge/Swift-F54A2A?style=flat-square&logo=swift&logoColor=white" />
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white" />
   <img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
