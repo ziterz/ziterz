@@ -1,6 +1,4 @@
-<h2></h2>
-
-<h2>My VSCode Theme <a href="https://marketplace.visualstudio.com/items?itemName=ziterz.codesandbox-black-theme">CodeSandbox Black</></h2>
+<h2>My VSCode Theme <a href="https://marketplace.visualstudio.com/items?itemName=ziterz.codesandbox-black-theme">CodeSandbox Black</a></h2>
 
 <h3>I think i can code with</h3>
 
