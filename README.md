@@ -1,6 +1,6 @@
 <h3>My VSCode Theme</h3>
 <a href="https://marketplace.visualstudio.com/items?itemName=ziterz.codesandbox-black-theme">CodeSandbox Black</a>
-<h3>I think i can code with</h3>
+<h3>My coding experience</h3>
 
 <p>
   <img alt="ExpressJs" src="https://img.shields.io/badge/Express-%23404d59.svg?style=flat-square&logo=express&logoColor=black&color=eee" />
@@ -42,5 +42,5 @@
 </p>
 
 <h3>Where to find me</h3>
-<p><a href="https://ziterz.dev" target="_blank"><img alt="Website" src="https://img.shields.io/badge/ziterz-%23404d59.svg?&style=for-the-badge&logo=About.me&logoColor=black&color=eee"/></a> <a href="https://github.com/ziterz" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/ziterz" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://ziterz.medium.com" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+<p><a href="https://ziterz.dev" target="_blank"><img alt="Website" src="https://img.shields.io/badge/ziterz-%2312100E.svg?&style=for-the-badge"/></a> <a href="https://github.com/ziterz" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/ziterz" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://ziterz.medium.com" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
