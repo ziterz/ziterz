@@ -8,9 +8,11 @@
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="React Native" src="https://img.shields.io/badge/-React_Native-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-%230095D5.svg?style=flat-square&logo=kotlin&logoColor=white" />
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img alt="Github Actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
+  <img alt="SwiftUI" src="https://img.shields.io/badge/SwiftUI-3171F4?style=flat-square&logo=swift&logoColor=white" />
+  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-%230095D5.svg?style=flat-square&logo=kotlin&logoColor=white" />
+  <img alt="Xcode" src="https://img.shields.io/badge/Xcode-007ACC?style=flat-square&logo=Xcode&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="Vuetify" src="https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=vuetify&logoColor=white" />
   <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white" />
@@ -29,6 +31,7 @@
   <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" />
   <img alt="Rollup" src="https://img.shields.io/badge/-Rollup-EC4A3F?style=flat-square&logo=rollup.js&logoColor=white" />
   <img alt="Swift" src="https://img.shields.io/badge/Swift-F54A2A?style=flat-square&logo=swift&logoColor=white" />
+  <img alt="UIKit" src="https://img.shields.io/badge/UIKit-F54A2A?style=flat-square&logo=swift&logoColor=white" />
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white" />
   <img alt="d3js" src="https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
@@ -42,5 +45,9 @@
 </p>
 
 <h3>Where to find me</h3>
-<p><a href="https://ziterz.dev" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Portfolio-%23404d59.svg?&style=for-the-badge&logo=Safari&logoColor=white"/></a> <a href="https://github.com/ziterz" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://leetcode.com/ziterz" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a> <a href="https://www.linkedin.com/in/ziterz" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<p>
+  <a href="https://ziterz.dev" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Portfolio-F0F0F0.svg?&style=for-the-badge&logo=Safari&logoColor=black"/></a> 
+  <a href="https://github.com/ziterz" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+  <a href="https://leetcode.com/ziterz" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a> 
+  <a href="https://www.linkedin.com/in/ziterz" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
