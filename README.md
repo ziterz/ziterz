@@ -49,6 +49,5 @@
   <a href="https://ziterz.dev" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Portfolio-F0F0F0.svg?&style=for-the-badge&logo=Safari&logoColor=black"/></a> 
   <a href="https://github.com/ziterz" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
   <a href="https://leetcode.com/ziterz" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a> 
-  <a href="https://www.codewars.com/users/ziterz" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" /></a> 
   <a href="https://www.linkedin.com/in/ziterz" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
